@@ -1,0 +1,14 @@
+layout_spectrum: 0.6366726930718869
+typography_spectrum: 0.17922359821386635
+color:
+  brandStrength: 0.4121876242570579
+  lightness: 0.7569224126636982
+  saturation: 0.2409230361226946
+  rhythmicContrast: 0.014248793013393879
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ALBizPlan
