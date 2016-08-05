@@ -6,9 +6,9 @@ color:
   saturation: 0.2409230361226946
   rhythmicContrast: 0.014248793013393879
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: ALBizPlan
