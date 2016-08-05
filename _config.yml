@@ -1,16 +1,16 @@
-typography_spectrum: 0.17922359821386635
+typography_spectrum: 0.2596676901448518
 color:
-  brandStrength: 0.4121876242570579
-  lightness: 0.7569224126636982
-  saturation: 0.2409230361226946
-  rhythmicContrast: 0.014248793013393879
+  brandStrength: 0.6892955210059881
+  lightness: 0.8849992514587939
+  saturation: 0.6405891836620867
+  rhythmicContrast: 0.886876497650519
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-layout_spectrum: 0.6366726930718869
+    - '#F8F9FC'
+    - '#224FAA'
+    - '#A62626'
+    - '#3D588F'
+    - '#C7CAD1'
+layout_spectrum: 0.1485975517425686
 name: ALBizPlan
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
