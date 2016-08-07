@@ -25,5 +25,8 @@ navigation:
   - name: Products & Market
     id: 77a9a15f-f5d2-4e5e-b944-476564650746
     type: content
+  - name: Products & Market
+    id: 8ad40ab7-47c2-4ce9-9ac6-4bedb89fe547
+    type: content
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
