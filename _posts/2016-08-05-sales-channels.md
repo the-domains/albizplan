@@ -1,7 +1,7 @@
 ---
 description: Sales Channels
-dateModified: '2016-08-07T06:03:46.687Z'
-datePublished: '2016-08-07T06:03:47.677Z'
+dateModified: '2016-08-07T06:20:14.217Z'
+datePublished: '2016-08-07T06:20:15.433Z'
 title: ''
 author: []
 publisher: {}
