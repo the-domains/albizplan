@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-07T05:58:21.980Z'
+datePublished: '2016-08-07T06:19:07.837Z'
 sourcePath: _posts/2016-08-05-team-background.md
 author: []
 via: {}
-dateModified: '2016-08-07T05:58:21.210Z'
+dateModified: '2016-08-07T06:19:06.840Z'
 title: ''
 publisher: {}
 description: Team Background
