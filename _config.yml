@@ -12,6 +12,9 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.6366726930718869
 name: ALBizPlan
-navigation: []
+navigation:
+  - name: The Team
+    id: b30ff3db-89b4-485f-94b8-f2760d1b086f
+    type: content
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
