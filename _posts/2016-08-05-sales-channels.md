@@ -1,18 +1,20 @@
 ---
-description: Sales Channels
-dateModified: '2016-08-07T06:20:14.217Z'
-datePublished: '2016-08-07T06:20:15.433Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-07T07:19:27.774Z'
 sourcePath: _posts/2016-08-05-sales-channels.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-07T07:19:26.855Z'
+title: ''
+publisher: {}
+description: Sales Channels
 starred: false
 url: sales-channels/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5770cd71-c6d6-4b23-a3d4-37fd640ea956.jpg)
+
 **Sales Channels**
 
 . Online via Angry Lane website
