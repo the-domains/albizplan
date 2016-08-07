@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-07T05:49:39.543Z'
+datePublished: '2016-08-07T05:58:21.980Z'
 sourcePath: _posts/2016-08-05-team-background.md
 author: []
 via: {}
-dateModified: '2016-08-07T05:49:29.924Z'
+dateModified: '2016-08-07T05:58:21.210Z'
 title: ''
 publisher: {}
 description: Team Background
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: team-background/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9ec60e2-3e9a-41c0-9e95-f2b2738bd151.jpg)
