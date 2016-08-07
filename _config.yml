@@ -12,33 +12,6 @@ color:
     - '#FFFFFF'
 layout_spectrum: 0.6366726930718869
 name: ALBizPlan
-navigation:
-  - name: Team
-    id: b30ff3db-89b4-485f-94b8-f2760d1b086f
-    type: content
-  - name: Team
-    id: 34e45ef4-c737-4904-b18f-e34c03fea907
-    type: content
-  - name: Products & Market
-    id: 25943a85-1bcb-46dc-95ea-d59ae53b2b81
-    type: content
-  - name: Products & Market
-    id: 77a9a15f-f5d2-4e5e-b944-476564650746
-    type: content
-  - name: Products & Market
-    id: 8ad40ab7-47c2-4ce9-9ac6-4bedb89fe547
-    type: content
-  - name: Sales & Competitors
-    id: 9947917f-c92f-46a9-8e61-5c78a1cddc53
-    type: content
-  - name: Sales & Competitors
-    id: ffe89b15-9537-4acb-9712-5f6aa2bd47b0
-    type: content
-  - name: Marketing
-    id: 076bb325-26d4-4307-9d70-c8a8a02061db
-    type: content
-  - name: Why Angry Lane
-    id: 41aeb3f8-37a3-4881-bd3a-d8ba1a4037bf
-    type: content
+navigation: []
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
