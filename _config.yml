@@ -37,5 +37,8 @@ navigation:
   - name: Marketing
     id: 076bb325-26d4-4307-9d70-c8a8a02061db
     type: content
+  - name: Why Angry Lane
+    id: 41aeb3f8-37a3-4881-bd3a-d8ba1a4037bf
+    type: content
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
