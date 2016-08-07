@@ -1,17 +1,16 @@
 ---
 description: Marketing
-dateModified: '2016-08-07T05:34:30.672Z'
-datePublished: '2016-08-07T06:00:13.651Z'
+dateModified: '2016-08-07T06:04:30.176Z'
+datePublished: '2016-08-07T06:04:31.337Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-05-marketing.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: marketing/index.html
+_type: Blurb
 
 ---
 **Marketing**
