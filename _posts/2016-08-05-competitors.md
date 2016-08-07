@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-07T07:16:33.075Z'
+datePublished: '2016-08-07T07:17:24.367Z'
 sourcePath: _posts/2016-08-05-competitors.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-07T07:16:32.349Z'
+dateModified: '2016-08-07T07:17:23.445Z'
 title: ''
 publisher: {}
 description: Competitors
@@ -13,7 +13,7 @@ url: competitors/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90e1a49d-2364-4b8f-b037-f0a0e45894ba.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/790cb901-c82f-4e54-a1e4-aa568b8389eb.png)
 
 **Competitors**
 
