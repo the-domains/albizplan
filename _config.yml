@@ -16,5 +16,8 @@ navigation:
   - name: The Team
     id: b30ff3db-89b4-485f-94b8-f2760d1b086f
     type: content
+  - name: Team Background
+    id: 34e45ef4-c737-4904-b18f-e34c03fea907
+    type: content
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
