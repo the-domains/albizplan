@@ -1,17 +1,16 @@
 ---
 description: Sales Channels
-dateModified: '2016-08-07T05:34:36.021Z'
-datePublished: '2016-08-07T06:00:20.262Z'
+dateModified: '2016-08-07T06:03:46.687Z'
+datePublished: '2016-08-07T06:03:47.677Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-05-sales-channels.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: sales-channels/index.html
+_type: Blurb
 
 ---
 **Sales Channels**
