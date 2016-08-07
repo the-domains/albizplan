@@ -34,5 +34,8 @@ navigation:
   - name: Sales & Competitors
     id: ffe89b15-9537-4acb-9712-5f6aa2bd47b0
     type: content
+  - name: Marketing
+    id: 076bb325-26d4-4307-9d70-c8a8a02061db
+    type: content
 title: Angry Lane
 description: Lifestyle Fashion and Custom Motorcycle Brand
