@@ -1,17 +1,16 @@
 ---
 description: Why Angry Lane?
-dateModified: '2016-08-07T05:34:24.966Z'
-datePublished: '2016-08-07T06:00:07.381Z'
+dateModified: '2016-08-07T06:04:45.978Z'
+datePublished: '2016-08-07T06:04:46.964Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-05-why-angry-lane.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: why-angry-lane/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85993c52-33d7-418d-8693-fd869c5e8257.jpg)
