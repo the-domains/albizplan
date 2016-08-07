@@ -1,17 +1,16 @@
 ---
 description: Competitors
-dateModified: '2016-08-05T05:59:37.481Z'
-datePublished: '2016-08-07T06:00:16.787Z'
+dateModified: '2016-08-07T06:04:04.676Z'
+datePublished: '2016-08-07T06:04:05.619Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-05-competitors.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: competitors/index.html
+_type: Blurb
 
 ---
 **Competitors**
